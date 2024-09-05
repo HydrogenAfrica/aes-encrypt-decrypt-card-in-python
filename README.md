@@ -17,10 +17,8 @@ This repository demonstrates how to perform AES encryption and decryption of car
 
 1. **Install Dependencies**
 
-   Ensure you have Composer installed. Run the following command to install the required libraries:
+   Ensure you have the `pycryptodome` library installed.
 
-   ```bash
-   composer require phpseclib/phpseclib
 
 2. **Configuration**
 
