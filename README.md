@@ -1,6 +1,6 @@
 # AES Encryption and Decryption in Python
 
-This repository demonstrates how to perform AES encryption and decryption in Python using CBC mode. It includes padding with PKCS7 and base64 encoding/decoding for secure data handling.
+This repository demonstrates how to perform AES encryption and decryption of card details in Python using CBC mode. It includes padding with PKCS7 and base64 encoding/decoding for secure data handling.
 
 ## Prerequisites
 
