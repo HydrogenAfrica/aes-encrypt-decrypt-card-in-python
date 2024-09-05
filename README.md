@@ -25,9 +25,10 @@ This repository demonstrates how to perform AES encryption and decryption of car
     Update the following values in the Encryption class:
 
     key: The base64-encoded encryption key.
+   
     iv: The base64-encoded initialization vector.
 
-3. **Encryption & Decryption**
+4. **Encryption & Decryption**
 
 - Encrypt Data
 
